@@ -1,13 +1,13 @@
 
-# react-native-demo
+# react-native-ilabtoast
 
 ## Getting started
 
-`$ npm install react-native-demo --save`
+`$ npm install react-native-ilabtoast --save`
 
 ### Mostly automatic installation
 
-`$ react-native link react-native-demo`
+`$ react-native link react-native-ilabtoast`
 
 ### Manual installation
 
@@ -26,20 +26,19 @@
   - Add `new RNDemoPackage()` to the list returned by the `getPackages()` method
 2. Append the following lines to `android/settings.gradle`:
   	```
-  	include ':react-native-demo'
-  	project(':react-native-demo').projectDir = new File(rootProject.projectDir, 	'../node_modules/react-native-demo/android')
+  	include ':react-native-ilabtoast'
+  	project(':react-native-ilabtoast').projectDir = new File(rootProject.projectDir, 	'../node_modules/react-native-ilabtoast/android')
   	```
 3. Insert the following lines inside the dependencies block in `android/app/build.gradle`:
   	```
-      compile project(':react-native-demo')
+      compile project(':react-native-ilabtoast')
   	```
 
 
 ## Usage
 ```javascript
-import RNDemo from 'react-native-demo';
+import RNDemo from 'react-native-ilabtoast';
 
 // TODO: What to do with the module?
 RNDemo;
 ```
-  
