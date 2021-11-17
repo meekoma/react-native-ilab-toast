@@ -3,11 +3,11 @@
 
 ## Getting started
 
-`$ npm install react-native-ilabtoast --save`
+`$ npm install react-native-ilab-toast --save`
 
 ### Mostly automatic installation
 
-`$ react-native link react-native-ilabtoast`
+`$ react-native link react-native-ilab-toast`
 
 ### Manual installation
 
