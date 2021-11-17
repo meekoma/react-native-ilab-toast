@@ -1,6 +1,6 @@
 
 {
-  "name": "react-native-ilabtoast",
+  "name": "react-native-ilab-toast",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -17,7 +17,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/meekoma/react-native-ilabtoast.git"
+    "url": "https://github.com/meekoma/react-native-ilab-toast.git"
   },
   "peerDependencies": {
     "react-native": "^0.66.3"

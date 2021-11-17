@@ -1,9 +1,9 @@
 
 import { NativeModules } from 'react-native';
-const { RNToast } = NativeModules;
-export const RNModule = {
+const { RNIlabToast } = NativeModules;
+export const RNIlabToastModule = {
     showToast(message){
-        RNToast.showToast(message)
-
+        RNIlabToast.showToast(message)
     }
 }
+
