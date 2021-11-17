@@ -1,0 +1,6 @@
+com/reactlibrary/BuildConfig.java
+ com.reactlibrary.BuildConfig
+com/reactlibrary/RNDemoPackage.java
+ com.reactlibrary.RNDemoPackage
+com/reactlibrary/RNDemoModule.java
+ com.reactlibrary.RNDemoModule
